@@ -1,0 +1,15 @@
+{
+  "name": "cctv",
+  "version": "0.0.0",
+  "description": "a cctv client based on node/Raspberry Pi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rasberry",
+    "pi"
+  ],
+  "author": "turingou",
+  "license": "BSD"
+}
